@@ -1,0 +1,32 @@
+.login-bg {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('https://assets.nflxext.com/ffe/siteui/vlv3/594f8025-139a-4a35-b58d-4ecf8fdc507c/d3c4e455-f0bf-4003-b7cd-511dda6da82a/IN-en-20240108-popsignuptwoweeks-perspective_alpha_website_large.jpg') center/cover no-repeat fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up-card {
+    background: black;
+    opacity: 0.7;
+    width: 32%;
+    height: 20%;
+    text-align: center;
+    position: relative;
+    bottom: 12%;
+}
+
+.txt {
+    opacity: 1 !important;
+    font-size: larger;
+    color: white;
+    font-weight: 600;
+}
+
+#google-btn {
+    opacity: 1 !important;
+    margin: 10%;
+    margin-top: 5%;
+}
