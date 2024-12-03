@@ -8,3 +8,6 @@
 @tailwind components;
 @tailwind utilities;
 /* @import 'node_modules/swiper/swiper.scss' */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
